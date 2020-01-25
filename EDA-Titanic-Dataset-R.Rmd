@@ -226,3 +226,8 @@ write.csv(res_rf,file="res_rf.csv",row.names = F)
 
 # Conclusion
 The mean of the right predictions that I got on the test set is 0.76555 with the decision tree method, 0.77990 with the logistic regression model, and 0.80382 with the random forest model. 
+
+---
+Reference URL - https://www.kaggle.com/hillabehar/titanic-analysis-with-r
+---
+
